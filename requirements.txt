@@ -1,5 +1,5 @@
 streamlit
 pandas
-matplotlib
+plotly
 openpyxl
-sqlite3-binary
+sqlalchemy
